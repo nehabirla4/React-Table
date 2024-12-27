@@ -1,0 +1,22 @@
+h1{
+}
+.header{
+    margin-left:15rem;
+}
+.dashboard{
+    margin-left:15rem;
+    /* text-align:center; */
+    height:100vh;    
+}
+.sidebar{
+     height:100%;
+     width:15rem;
+     position: fixed;
+     top: 0;
+     left: 0;
+     padding-top: 20px;
+}
+.input-box{
+   margin-left:auto;
+   margin-right:auto;
+}
